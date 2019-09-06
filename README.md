@@ -1,4 +1,5 @@
-gitkraken_handson
+# GitKraken Hands-on
+Sample project for working with the Git version control system.
 
 ## Overview
 Our code will demonstrate the different code snippets that have been used

@@ -1,5 +1,6 @@
 # GitKraken Hands-on
 Sample project for working with the Git version control system.
+Created and modified while working with a great class at IQSS
 
 ## Overview
 Our code will demonstrate the different code snippets that have been used

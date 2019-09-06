@@ -41,6 +41,8 @@ est.pi <- function(n){
 
 
 # Square function
+# adapted from HBC Training Intro to R less (put URL here)
+# and the well-knonw R-blogger website (put URL here)
 square_it <- function(x){
   sq <- x*x
   return(sq)
@@ -48,6 +50,7 @@ square_it <- function(x){
 
 
 # Anscombe's quartet
+# Examples from R-bloggers website (put URL here)
 anscombes_quartet <- {
     library(Tmisc)
 
